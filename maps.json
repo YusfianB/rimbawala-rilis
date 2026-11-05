@@ -1,0 +1,7 @@
+{
+  "versi": 1,
+  "diperbarui": "2026-11-05",
+  "catatan": "Katalog peta Rimbawala. Berkas peta dan kontur ada di GitHub Releases repo rimbawala-rilis. Ukuran dalam byte, sha256 huruf kecil. Aplikasi memeriksa sha256 setelah unduhan selesai.",
+  "peta": [],
+  "kontur": []
+}
