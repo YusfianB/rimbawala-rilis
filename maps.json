@@ -1,7 +1,22 @@
 {
   "versi": 1,
-  "diperbarui": "2026-11-05",
-  "catatan": "Katalog peta Rimbawala. Berkas peta dan kontur ada di GitHub Releases repo rimbawala-rilis. Ukuran dalam byte, sha256 huruf kecil. Aplikasi memeriksa sha256 setelah unduhan selesai.",
-  "peta": [],
-  "kontur": []
+  "peta": [
+    {
+      "id": "jawa-timur",
+      "nama": "Jawa Timur",
+      "bbox": [
+        110.5,
+        -8.9,
+        115.0,
+        -6.0
+      ],
+      "maxzoom": 14,
+      "ukuran": 111033821,
+      "url": "https://github.com/YusfianB/rimbawala-rilis/releases/download/maps-20261105/jawa-timur.pmtiles",
+      "versi": "maps-20261105"
+    }
+  ],
+  "kontur": [],
+  "diperbarui": "2026-11-06T07:32:15Z",
+  "catatan": "Katalog peta Rimbawala. Berkas peta dan kontur ada di GitHub Releases repo rimbawala-rilis. Ukuran dalam byte, sha256 huruf kecil. Aplikasi memeriksa sha256 setelah unduhan selesai."
 }
